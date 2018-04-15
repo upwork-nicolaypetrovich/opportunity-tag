@@ -1,1 +1,1 @@
-# opportunity-tag
+English learning courses website. It has two landings, video library, blog and other interesting pages. MailChimp using here to communicate with subscribers and Google Maps API to dynamically build map of active offices.
